@@ -17,17 +17,15 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 239 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +60,17 @@ Sunday                   42 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         ██████████████░░░░░░░░░░░   54.12 % 
-Python                   28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Text                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               2 hrs 48 mins       ██████████████████░░░░░░░   71.02 % 
+Python                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,7 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 12:53:49 UTC
+ Last Updated on 27/08/2025 01:05:53 UTC
 <!--END_SECTION:waka-->
 
 ---
