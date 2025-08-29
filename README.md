@@ -17,17 +17,17 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-907.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 243 Contributions in the Year 2025
+> 🏆 245 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@ const bhargav = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                1046 commits        █████████████░░░░░░░░░░░░   51.83 % 
-🌃 Evening                912 commits         ███████████░░░░░░░░░░░░░░   45.19 % 
+🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌆 Daytime                1048 commits        █████████████░░░░░░░░░░░░   51.83 % 
+🌃 Evening                914 commits         ███████████░░░░░░░░░░░░░░   45.20 % 
 🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   445 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                491 commits         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Thursday                 174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Friday                   507 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Monday                   445 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Wednesday                491 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Thursday                 174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Friday                   510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Sunday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 
@@ -92,7 +92,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 01:05:25 UTC
+ Last Updated on 29/08/2025 16:01:43 UTC
 <!--END_SECTION:waka-->
 
 ---
