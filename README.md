@@ -17,9 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.5%20thousand%20lines%20of%20code-blue)
 
@@ -62,17 +60,17 @@ Sunday                   45 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 29 mins       ████████████████████░░░░░   81.23 % 
-Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TypeScript               8 hrs 29 mins       █████████████████░░░░░░░░   66.97 % 
+Python                   3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,7 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 16:01:43 UTC
+ Last Updated on 30/08/2025 01:02:34 UTC
 <!--END_SECTION:waka-->
 
 ---
