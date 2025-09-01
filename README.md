@@ -19,7 +19,7 @@ const bhargav = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-950.0%20thousand%20lines%20of%20code-blue)
 
@@ -62,11 +62,11 @@ Sunday                   47 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 29 mins       █████████████████░░░░░░░░   66.44 % 
+TypeScript               8 hrs 29 mins       █████████████████░░░░░░░░   66.45 % 
 Python                   3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
 Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
 VS Code                  12 hrs 47 mins      █████████████████████████   100.00 % 
@@ -92,7 +92,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 16:39:13 UTC
+ Last Updated on 01/09/2025 04:39:14 UTC
 <!--END_SECTION:waka-->
 
 ---
