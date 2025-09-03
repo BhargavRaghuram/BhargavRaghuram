@@ -17,9 +17,9 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-492.8%20thousand%20lines%20of%20code-blue)
 
@@ -62,17 +62,17 @@ Sunday                   30 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 25 mins       ██████████████░░░░░░░░░░░   55.55 % 
-Python                   3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Batchfile                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+TypeScript               6 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.35 % 
+Python                   3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Batchfile                51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,7 +92,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2025 13:41:42 UTC
+ Last Updated on 03/09/2025 01:02:19 UTC
 <!--END_SECTION:waka-->
 
 ---
