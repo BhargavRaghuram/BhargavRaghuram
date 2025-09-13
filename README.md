@@ -1,6 +1,6 @@
 ## Hi there, I'm Bhargav Raghuram 👋
 
-- I build on the web, love the cloud, and care about great UX
+- I build on the web, love solving problems, and care about great UX
 - Always learning, always shipping
 
 ```js
