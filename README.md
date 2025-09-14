@@ -19,7 +19,7 @@ const bhargav = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.4%20thousand%20lines%20of%20code-blue)
 
@@ -27,7 +27,7 @@ const bhargav = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 261 Contributions in the Year 2025
+> 🏆 262 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,17 +62,17 @@ Sunday                   32 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-TypeScript               3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-Batchfile                1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-YAML                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Python                   3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
+TypeScript               3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,7 +92,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 15:40:05 UTC
+ Last Updated on 14/09/2025 01:08:02 UTC
 <!--END_SECTION:waka-->
 
 ---
