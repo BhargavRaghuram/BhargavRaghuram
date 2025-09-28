@@ -17,9 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2059%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-644.3%20thousand%20lines%20of%20code-blue)
 
@@ -35,46 +33,6 @@ const bhargav = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-🌆 Daytime                666 commits         ████████████░░░░░░░░░░░░░   49.85 % 
-🌃 Evening                618 commits         ████████████░░░░░░░░░░░░░   46.26 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   300 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Tuesday                  205 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Wednesday                305 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Thursday                 127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Friday                   315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Saturday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Sunday                   40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   6 hrs 31 mins       ███████████████░░░░░░░░░░   60.18 % 
-TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 50 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  10 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -92,7 +50,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 01:01:43 UTC
+ Last Updated on 28/09/2025 01:10:58 UTC
 <!--END_SECTION:waka-->
 
 ---
