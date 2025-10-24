@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,16 @@ Sunday                   51 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        ████████████░░░░░░░░░░░░░   49.51 % 
-Python                   1 hr 14 mins        ████████████░░░░░░░░░░░░░   48.96 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               1 hr 15 mins        ████████████████░░░░░░░░░   62.42 % 
+Python                   43 mins             █████████░░░░░░░░░░░░░░░░   35.71 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -91,7 +91,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2025 01:06:58 UTC
+ Last Updated on 24/10/2025 01:03:01 UTC
 <!--END_SECTION:waka-->
 
 ---
