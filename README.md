@@ -17,11 +17,11 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.28%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,17 +62,18 @@ Sunday                   60 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 39 mins       █████████████████░░░░░░░░   69.85 % 
-Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-TypeScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Python                   7 hrs 39 mins       ████████████████░░░░░░░░░   63.65 % 
+TypeScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Other                    1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 24 mins      █████████████████████████   100.00 % 
+Cursor                   11 hrs 58 mins      █████████████████████████   99.49 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 01:21:55 UTC
+ Last Updated on 02/01/2026 01:15:37 UTC
 <!--END_SECTION:waka-->
 
 ---
