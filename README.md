@@ -17,9 +17,9 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.20%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,17 +62,17 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-Text                     3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-TypeScript               2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
+Text                     4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.60 % 
+TypeScript               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 29 mins       █████████████████████████   100.00 % 
+Cursor                   11 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -92,7 +92,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 01:46:38 UTC
+ Last Updated on 26/03/2026 01:52:08 UTC
 <!--END_SECTION:waka-->
 
 ---
