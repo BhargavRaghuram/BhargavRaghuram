@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -27,11 +27,11 @@ const bhargav = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 100 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -79,11 +79,11 @@ Windows                  10 hrs 25 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Jupyter Notebook         6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Java                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Jupyter Notebook         6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -93,7 +93,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 02:02:27 UTC
+ Last Updated on 18/04/2026 01:53:08 UTC
 <!--END_SECTION:waka-->
 
 ---
