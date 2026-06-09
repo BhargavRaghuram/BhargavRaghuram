@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,17 +60,17 @@ Sunday                   197 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Python                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Java                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-JSON                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-TypeScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Markdown                 3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Java                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+TypeScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +90,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 02:58:50 UTC
+ Last Updated on 09/06/2026 02:36:29 UTC
 <!--END_SECTION:waka-->
 
 ---
