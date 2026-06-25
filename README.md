@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,11 +62,11 @@ Sunday                   205 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr                ██████████████░░░░░░░░░░░   56.09 % 
-Text                     28 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Markdown                 1 hr                ██████████████░░░░░░░░░░░   56.01 % 
+Text                     28 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
 Cursor                   1 hr 47 mins        █████████████████████████   100.00 % 
@@ -92,7 +92,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 02:42:44 UTC
+ Last Updated on 25/06/2026 02:43:41 UTC
 <!--END_SECTION:waka-->
 
 ---
