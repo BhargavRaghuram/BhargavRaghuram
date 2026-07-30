@@ -17,15 +17,19 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 164 Contributions in the Year 2026
+> 🏆 168 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +40,21 @@ const bhargav = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                416 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-🌆 Daytime                2040 commits        ████████████░░░░░░░░░░░░░   48.58 % 
-🌃 Evening                1699 commits        ██████████░░░░░░░░░░░░░░░   40.46 % 
-🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+🌞 Morning                452 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌆 Daytime                2194 commits        ████████████░░░░░░░░░░░░░   48.27 % 
+🌃 Evening                1853 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
+🌙 Night                  46 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   928 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Tuesday                  772 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Thursday                 460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Friday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Saturday                 339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Sunday                   268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Monday                   1000 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Tuesday                  833 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Wednesday                790 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Thursday                 494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Friday                   781 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Sunday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 ```
 
 
@@ -60,43 +64,43 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       ██████████████░░░░░░░░░░░   57.22 % 
-Markdown                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Diff                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
+Git Config               1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 55 mins       ████████████████████████░   95.72 % 
-Cursor                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Claude Code              3 hrs 24 mins       █████████████████████░░░░   83.89 % 
+Cursor                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 
 💻 Operating System: 
-Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (96.11%)
+⏱ AI Coding Time: 3 hrs 31 mins (86.83%)
 
-✍️ 4,395 lines written by AI, 6 lines written by hand (99.86% AI-written)
+✍️ 645 lines written by AI, 19 lines written by hand (97.14% AI-written)
 
-🔤 115,828,933 Input Tokens, 415,605 Output Tokens
+🔤 41,115,489 Input Tokens, 155,131 Output Tokens
 
-💵 $350.58 Estimated AI Cost This Week
+💵 $123.76 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 8 AI Sessions, 44 AI Prompts
 
-Sonnet                   4,053 lines         █████████████████████░░░░   83.84 % 
-Haiku                    781 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Haiku                    527 lines           █████████████░░░░░░░░░░░░   50.97 % 
+Sonnet                   507 lines           ████████████░░░░░░░░░░░░░   49.03 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 4,625 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.32% of changed lines were hand-edited
+🤖 AI-Driven — 97.14% of written lines came from AI
+📚 Verbose Prompter — average 2,452 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 15.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -116,7 +120,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 02:01:41 UTC
+ Last Updated on 30/07/2026 01:52:41 UTC
 <!--END_SECTION:waka-->
 
 ---
