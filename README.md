@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%208%20mins-blue?style=flat)
 
@@ -64,27 +64,27 @@ Sunday                   292 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Git Config               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Python                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Bash                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+TypeScript               1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Python                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Git Config               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Bash                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 58 mins       ██████████████░░░░░░░░░░░   55.12 % 
-Cursor                   4 hrs               ███████████░░░░░░░░░░░░░░   44.47 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Claude Code              4 hrs 58 mins       █████████████░░░░░░░░░░░░   53.98 % 
+Cursor                   4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Windows                  9 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (68.96%)
+⏱ AI Coding Time: 6 hrs 13 mins (67.54%)
 
-✍️ 321 lines written by AI, 89 lines written by hand (78.29% AI-written)
+✍️ 321 lines written by AI, 93 lines written by hand (77.54% AI-written)
 
 🔤 25,630,370 Input Tokens, 207,147 Output Tokens
 
@@ -96,10 +96,10 @@ Sonnet                   655 lines           ███████████�
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.29% of written lines came from AI
+🤖 AI-Driven — 77.54% of written lines came from AI
 📚 Verbose Prompter — average 2,553 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.82% of changed lines were hand-edited
+🚀 High AI Trust — 18.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -119,7 +119,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 02:11:29 UTC
+ Last Updated on 04/08/2026 01:57:03 UTC
 <!--END_SECTION:waka-->
 
 ---
