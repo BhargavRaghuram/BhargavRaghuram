@@ -17,13 +17,13 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,21 +40,21 @@ const bhargav = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-🌆 Daytime                2227 commits        ████████████░░░░░░░░░░░░░   48.50 % 
-🌃 Evening                1862 commits        ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+🌞 Morning                396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+🌆 Daytime                1881 commits        ████████████░░░░░░░░░░░░░   48.22 % 
+🌃 Evening                1585 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
+🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1017 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Tuesday                  827 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Friday                   782 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Saturday                 379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Sunday                   305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Monday                   865 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Tuesday                  695 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                637 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Friday                   658 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Saturday                 340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 
@@ -64,17 +64,17 @@ Sunday                   305 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               56 mins             ████████████░░░░░░░░░░░░░   48.12 % 
-Markdown                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               58 mins             ███████████░░░░░░░░░░░░░░   45.10 % 
+Markdown                 32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+JSON                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Cursor                   1 hr 56 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 00:54:20 UTC
+ Last Updated on 18/08/2026 00:53:14 UTC
 <!--END_SECTION:waka-->
 
 ---
