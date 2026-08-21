@@ -23,13 +23,13 @@ const bhargav = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,21 +40,21 @@ const bhargav = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-🌆 Daytime                1796 commits        ████████████░░░░░░░░░░░░░   48.00 % 
-🌃 Evening                1524 commits        ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌙 Night                  36 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+🌞 Morning                367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+🌆 Daytime                1718 commits        ████████████░░░░░░░░░░░░░   48.02 % 
+🌃 Evening                1459 commits        ██████████░░░░░░░░░░░░░░░   40.78 % 
+🌙 Night                  34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   828 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Tuesday                  670 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Wednesday                609 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Friday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Saturday                 321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Sunday                   260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Monday                   794 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Tuesday                  639 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Wednesday                578 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Thursday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Friday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Saturday                 310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Sunday                   248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 
@@ -64,17 +64,17 @@ Sunday                   260 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ███████████░░░░░░░░░░░░░░   44.38 % 
-Markdown                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Bash                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               1 hr 43 mins        ███████████░░░░░░░░░░░░░░   43.27 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 56 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 00:52:59 UTC
+ Last Updated on 21/08/2026 00:56:59 UTC
 <!--END_SECTION:waka-->
 
 ---
