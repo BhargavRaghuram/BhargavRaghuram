@@ -64,18 +64,18 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               56 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Bash                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+JSON                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Git Config               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 6 mins        ███████████████████████░░   91.86 % 
-VS Code                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Cursor                   2 hrs 5 mins        ██████████████████████░░░   88.35 % 
+VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +101,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 00:54:57 UTC
+ Last Updated on 26/08/2026 00:56:09 UTC
 <!--END_SECTION:waka-->
 
 ---
