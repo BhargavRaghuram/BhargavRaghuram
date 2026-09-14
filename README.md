@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%208%20mins-blue?style=flat)
 
@@ -64,17 +64,17 @@ Sunday                   279 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     1 hr                ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-TypeScript               1 hr                ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Text                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+TypeScript               2 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.85 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Python                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Bash                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Text                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 35 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 02:37:16 UTC
+ Last Updated on 14/09/2026 02:53:17 UTC
 <!--END_SECTION:waka-->
 
 ---
