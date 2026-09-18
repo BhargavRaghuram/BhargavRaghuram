@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%208%20mins-blue?style=flat)
 
@@ -64,17 +64,17 @@ Sunday                   271 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.30 % 
-Python                   2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Python                   2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
+TypeScript               2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 55 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 02:55:44 UTC
+ Last Updated on 18/09/2026 02:41:53 UTC
 <!--END_SECTION:waka-->
 
 ---
