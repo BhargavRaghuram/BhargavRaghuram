@@ -17,7 +17,7 @@ const bhargav = {
 
 ### ⏱️ Code Time & Weekly Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%208%20mins-blue?style=flat)
 
@@ -64,17 +64,17 @@ Sunday                   258 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.17 % 
-Bash                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Git Config               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Python                   1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Bash                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+TypeScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Git Config               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 36 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 02:40:55 UTC
+ Last Updated on 25/09/2026 02:58:11 UTC
 <!--END_SECTION:waka-->
 
 ---
