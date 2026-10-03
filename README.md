@@ -64,17 +64,17 @@ Sunday                   279 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   40.16 % 
-Bash                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Markdown                 1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   38.21 % 
+Bash                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Python                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 52 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 03:36:07 UTC
+ Last Updated on 03/10/2026 03:20:16 UTC
 <!--END_SECTION:waka-->
 
 ---
