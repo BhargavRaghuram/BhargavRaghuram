@@ -64,15 +64,14 @@ Sunday                   286 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   56 mins             ███████████████████░░░░░░   75.35 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Python                   45 mins             ████████████████████░░░░░   81.64 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
 
 🔥 Editors: 
-Cursor                   1 hr 14 mins        █████████████████████████   100.00 % 
+Cursor                   55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +97,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BhargavRaghuram/BhargavRaghuram/master/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 03:47:50 UTC
+ Last Updated on 13/10/2026 04:59:14 UTC
 <!--END_SECTION:waka-->
 
 ---
